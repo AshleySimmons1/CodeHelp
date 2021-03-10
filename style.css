@@ -1,0 +1,22 @@
+Body {
+   text-align: center;
+}
+Header {
+text-align: right;
+}
+.food-truck {
+    border: 2px solid #ff00ff ;
+    background-color: #ff00ff;
+}
+.coffee {
+    border: 5px solid #7944e6;
+    margin: 10px;
+}
+.cream {
+    border: 5px solid #7944e6;
+    margin: 10px;
+}
+.cookies {
+    border: 5px solid #7944e6;
+    margin: 10px;
+}
